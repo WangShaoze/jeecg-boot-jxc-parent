@@ -1,0 +1,12 @@
+${AnsiColor.BRIGHT_BLUE}
+                       _____   _______     ______  _____  _____ _____
+                      |_  \ \ / /  __ \    | ___ \|  _  ||  _  |_   _|
+                        | |\ V /| /  \/____| |_/ /| | | || | | | | |
+                        | |/   \| |  |_____| ___ \| | | || | | | | |
+                    /\__/ / /^\ \ \__/\    | |_/ /\ \_/ /\ \_/ / | |
+                    \____/\/   \/\____/    \____/  \___/  \___/  \_/
+${AnsiColor.BRIGHT_GREEN}
+Jeecg  Boot Version: 3.8.0
+Spring Boot Version: ${spring-boot.version}${spring-boot.formatted-version}
+版权所属： 云南能点科技有限公司
+${AnsiColor.BLACK}
