@@ -101,6 +101,7 @@ public class ShiroConfig {
         filterChainDefinitionMap.put("/auth/2step-code", "anon");//登录验证码
         filterChainDefinitionMap.put("/sys/common/static/**", "anon");//图片预览 &下载文件不限制token
         filterChainDefinitionMap.put("/sys/common/pdf/**", "anon");//pdf预览
+        filterChainDefinitionMap.put("/jxcmanage/h5/api/**", "anon"); // 进销存管理系统正对H5的接口
 
 
 
